@@ -12,6 +12,7 @@ namespace FreshTest102Project
         {
             Console.WriteLine("Welcome to 102Batch");
             SwapTwoNumbers.SwapingNumbers();
+            Console.WriteLine("Making changes to know git diff");
         }
     }
 }
